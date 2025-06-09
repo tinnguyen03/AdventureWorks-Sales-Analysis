@@ -33,10 +33,6 @@ The goal of this dashboard is to analyze sales performance across different prod
 
 This is a completed course-based project. All visuals and measures were built manually following best practices.
 
-##  Author's Note
-
-While this dashboard was developed as part of a structured course, I ensured to understand the rationale behind every design and calculation. I also plan to extend it with new perspectives like customer segmentation and profit margin analysis in the future.
-
 ##  Last Updated
 
 May, 2025
