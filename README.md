@@ -1,8 +1,6 @@
 
 # AdventureWorks Sales Analysis Dashboard
 
-This project is a Power BI dashboard created as part of the [Maven Analytics Power BI course on Udemy](https://www.udemy.com/course/microsoft-power-bi-up-learn-power-bi-visualize-data/). It uses the **AdventureWorks** dataset to demonstrate a range of Power BI skills including data modeling, DAX calculations, and interactive visual design.
-
 ##  Project Overview
 
 The goal of this dashboard is to analyze sales performance across different product categories, time periods, and sales representatives. It provides insights for business decision-making based on sales trends and KPIs.
